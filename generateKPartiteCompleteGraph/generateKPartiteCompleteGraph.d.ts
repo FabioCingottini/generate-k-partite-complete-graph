@@ -1,0 +1,1 @@
+export function generateKPartiteCompleteGraph(partitionsDescription: number[]): Map<string, string>;
